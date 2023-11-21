@@ -97,7 +97,7 @@ function Home() {
 <div className='d-flex ' style={{zIndex:'1', marginLeft:'5px', marginRight:'5px', width:'400px' , color:'black', }}
 >
     <Product  
-     image="https://o.remove.bg/downloads/ebaf4e03-e73a-41df-94b0-b216765da213/712_YtEr4HL._SY695_-removebg-preview.png"   
+     image="https://m.media-amazon.com/images/I/61fhoPht9OL._SX695_.jpg"   
     id="6767"
     title="Puma Womens Ultimate Ease WNS Walking Shoe  "
     price={' ₹2000'}
@@ -110,10 +110,10 @@ function Home() {
 <div className='d-flex ' style={{zIndex:'1', marginLeft:'5px', marginRight:'5px', width:'400px' , color:'black', }}
 >
     <Product  
-     image="https://o.remove.bg/downloads/121171d9-e674-460b-b746-d021d5fe4092/61oXoXM4LDL._SX679_-removebg-preview.png"   
+     image="https://m.media-amazon.com/images/I/61oXoXM4LDL._SX679_.jpg"   
     id="6767"
     title="Ayukta Women's Cotton Salwar Suit Set "
-    price={' ₹3000'}
+    price={' ₹300'}
     rating={5}
    
     />
