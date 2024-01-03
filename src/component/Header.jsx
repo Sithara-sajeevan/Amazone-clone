@@ -16,7 +16,7 @@ function Header() {
                  <i class="fa-solid fa-magnifying-glass rounded   " style={{background:'orange' ,width:'50px',height:'30px',padding:'20px',marginRight:'20px',border:'none', }}></i> </div>
         
 
-      <p style={{color:'white',marginRight:'40px',textDecoration:'none',marginTop:'20px'}}>Hellow Sign In</p>
+      <p style={{color:'white',marginRight:'40px',textDecoration:'none',marginTop:'20px'}}>Hello Sign In</p>
 
 
         <Link to={'./wishlist'}><i class="fa-solid fa-heart" style={{marginRight:'10px',width:'50px'}}></i></Link>
